@@ -1,0 +1,9 @@
+usage: horizontalTileNum, verticalTileNum, tileWidth, tileHeight, textureNum. then list textures pathes
+100,20,32,32,6
+assets/ground_block32.png
+assets/wall_block32.png
+assets/coin_block32.png
+assets/diamond_block32.png
+assets/green_pipe.png
+assets/flag.png
+
